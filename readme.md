@@ -5,8 +5,6 @@ A front-end project showcasing a collection of reusable HTML elements, styled co
 ---
 
 
----
-
 ## ✨ Features
 
 - ✅ Clean, semantic HTML5
